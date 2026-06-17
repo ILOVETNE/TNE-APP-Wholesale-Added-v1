@@ -2554,4 +2554,14 @@
 "backgroundColor":null,
 "backgroundImage":null
 },
+"categoryFeatured": {
+  "title": "Popular categories",
+  "items": [
+    { "category": "449" },
+    { "category": "17"  },
+    { "category": "349" },
+    { "category": "448" },
+    { "category": "450" }
+  ]
+},
 "Datetime":"2026-06-17T18:16:26.132874"}
