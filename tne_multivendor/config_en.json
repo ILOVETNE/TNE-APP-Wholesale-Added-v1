@@ -2541,4 +2541,14 @@
 "backgroundColor":null,
 "backgroundImage":null
 },
+"categoryFeatured": {
+  "title": "Featured collections",
+  "items": [
+    { "image": "https://traditionalnortheast.com/wp-content/uploads/2025/05/Woman-Categories-medium.png", "category": "449", "title": { "text": "New In · Woman" } },
+    { "image": "https://traditionalnortheast.com/wp-content/uploads/2025/05/Sador-Mekhela-300x300.png", "category": "17", "title": { "text": "Sador Mekhela" } },
+    { "image": "https://traditionalnortheast.com/wp-content/uploads/2025/05/Jewellary-Categories-medium.png", "category": "349", "title": { "text": "Jewellery" } },
+    { "image": "https://traditionalnortheast.com/wp-content/uploads/2025/05/Men-Categories-medium.png", "category": "448", "title": { "text": "Men's Edit" } },
+    { "image": "https://traditionalnortheast.com/wp-content/uploads/2025/05/Home-Decors-medium.png", "category": "450", "title": { "text": "Home & Decor" } }
+  ]
+}
 "Datetime":"2026-05-08T04:13:23.560606"}
