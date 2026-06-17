@@ -28,10 +28,10 @@
 "backgroundColor":"#56000F"
 },
 {
-"height":135.0,
-"backgroundColor":"032196F3",
+"height":135,
+"layout":"spacer",
 "useLightColor":false,
-"layout":"spacer"
+"backgroundColor":"032196F3"
 },
 {
 "items":[
@@ -2114,12 +2114,16 @@
 },
 {
 "key":"hwu0rkrizt",
-"pos":200,
-"icon":"square_grid_2x2",
-"label":"Categories",
 "layout":"category",
+"icon":"square_grid_2x2",
+"fontFamily":"CupertinoIcons",
+"label":"Categories",
+"pos":200,
 "visible":true,
-"parallax":true,
+"defaultTab":false,
+"fullscreen":false,
+"showOriginalColor":false,
+"categoryLayout":"sideMenuWithGroup",
 "categories":["449",
 "448",
 "447",
@@ -2128,14 +2132,10 @@
 "450",
 "552",
 "551"],
-"defaultTab":false,
-"fontFamily":"CupertinoIcons",
-"fullscreen":false,
-"showQRCode":true,
-"showSearch":true,
-"categoryLayout":"sideMenuWithGroup",
-"showOriginalColor":false,
-"parallaxImageRatio":1.2
+"parallax":true,
+"parallaxImageRatio":1.2,
+"showSearch":false,
+"showQRCode":true
 },
 {
 "key":"2reihs4qzc",
@@ -2161,17 +2161,11 @@
 },
 {
 "key":"69jw5yx12d",
-"layout":"profile",
-"icon":"person",
-"fontFamily":"CupertinoIcons",
-"label":"Profile",
 "pos":500,
-"defaultTab":false,
-"fullscreen":false,
-"showOriginalColor":false,
-"settings":["order",
-"wishlist",
-"my-rating",
+"icon":"person",
+"label":"Profile",
+"layout":"profile",
+"settings":["my-rating",
 "title-KshwBXqdxS",
 "darkTheme",
 "notifications",
@@ -2180,9 +2174,18 @@
 "rating",
 "about",
 "title-vmdliBhfAj",
-"vendorAdmin",
 "delivery",
-"web-KaZLCGMCis"],
+"web-ikWvMhmIHn"],
+"styleItem":"flatShadow",
+"defaultTab":false,
+"drawerIcon":{
+"icon":"list_dash",
+"fontFamily":"CupertinoIcons"
+},
+"fontFamily":"CupertinoIcons",
+"fullscreen":false,
+"showBackground":false,
+"showOriginalColor":false,
 "subGeneralSetting":{
 "about":{
 "webUrl":"https://traditionalnortheast.com/about-us-for-app/"
@@ -2194,6 +2197,23 @@
 "webUrl":"https://traditionalnortheast.com/eri-ai/",
 "buttons":[],
 "enableClose":false,
+"webViewMode":true,
+"bannerHeight":15,
+"useTabScreen":false,
+"enableDivider":false,
+"enableForward":false,
+"requiredLogin":false,
+"enableBackward":true,
+"iconFontFamily":"CupertinoIcons",
+"buttonAlignment":"centerLeft"
+},
+"web-ikWvMhmIHn":{
+"id":"web-12",
+"icon":"tags_solid",
+"title":"Seller Registration",
+"webUrl":"https://ilovetne.github.io/seller-registration/",
+"buttons":[],
+"enableClose":true,
 "webViewMode":true,
 "bannerHeight":15,
 "useTabScreen":false,
@@ -2237,14 +2257,7 @@
 "buttonAlignment":"centerLeft",
 "verticalPadding":{
 "x":3,
-"y":0}}
-},
-"drawerIcon":{
-"icon":"list_dash",
-"fontFamily":"CupertinoIcons"
-},
-"showBackground":false,
-"styleItem":"flatShadow"
+"y":0}}}
 }
 ],
 "AppBar":{
@@ -2541,14 +2554,4 @@
 "backgroundColor":null,
 "backgroundImage":null
 },
-"categoryFeatured": {
-  "title": "Featured collections",
-  "items": [
-    { "image": "https://traditionalnortheast.com/wp-content/uploads/2025/05/Woman-Categories-medium.png", "category": "449", "title": { "text": "New In · Woman" } },
-    { "image": "https://traditionalnortheast.com/wp-content/uploads/2025/05/Sador-Mekhela-300x300.png", "category": "17", "title": { "text": "Sador Mekhela" } },
-    { "image": "https://traditionalnortheast.com/wp-content/uploads/2025/05/Jewellary-Categories-medium.png", "category": "349", "title": { "text": "Jewellery" } },
-    { "image": "https://traditionalnortheast.com/wp-content/uploads/2025/05/Men-Categories-medium.png", "category": "448", "title": { "text": "Men's Edit" } },
-    { "image": "https://traditionalnortheast.com/wp-content/uploads/2025/05/Home-Decors-medium.png", "category": "450", "title": { "text": "Home & Decor" } }
-  ]
-},
-"Datetime":"2026-05-08T04:13:23.560606"}
+"Datetime":"2026-06-17T18:16:26.132874"}
