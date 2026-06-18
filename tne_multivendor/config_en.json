@@ -2114,16 +2114,12 @@
 },
 {
 "key":"hwu0rkrizt",
-"layout":"category",
-"icon":"square_grid_2x2",
-"fontFamily":"CupertinoIcons",
-"label":"Categories",
 "pos":200,
+"icon":"square_grid_2x2",
+"label":"Categories",
+"layout":"category",
 "visible":true,
-"defaultTab":false,
-"fullscreen":false,
-"showOriginalColor":false,
-"categoryLayout":"sideMenuWithGroup",
+"parallax":true,
 "categories":["449",
 "448",
 "447",
@@ -2132,10 +2128,14 @@
 "450",
 "552",
 "551"],
-"parallax":true,
-"parallaxImageRatio":1.2,
+"defaultTab":false,
+"fontFamily":"CupertinoIcons",
+"fullscreen":false,
+"showQRCode":true,
 "showSearch":false,
-"showQRCode":true
+"categoryLayout":"sideMenuWithGroup",
+"showOriginalColor":false,
+"parallaxImageRatio":1.2
 },
 {
 "key":"2reihs4qzc",
@@ -2170,14 +2170,14 @@
 "fullscreen":false,
 "showOriginalColor":false,
 "settings":["my-rating",
-"title-KshwBXqdxS",
+"title-gaGOGUpbtR",
 "darkTheme",
 "notifications",
 "biometrics",
 "language",
 "rating",
 "about",
-"title-vmdliBhfAj",
+"title-IvKInpQlmh",
 "delivery",
 "web-ikWvMhmIHn"],
 "subGeneralSetting":{
@@ -2218,47 +2218,48 @@
 "iconFontFamily":"CupertinoIcons",
 "buttonAlignment":"centerLeft"
 },
-"title-KshwBXqdxS":{
+"title-gaGOGUpbtR":{
 "id":"web-12",
-"icon":"news",
 "title":"App Essentials",
-"buttons":[],
-"enableClose":false,
-"webViewMode":false,
-"bannerHeight":15,
-"useTabScreen":false,
-"enableDivider":true,
-"enableForward":false,
-"requiredLogin":false,
-"enableBackward":true,
-"iconFontFamily":"CupertinoIcons",
-"buttonAlignment":"centerLeft"
-},
-"title-vmdliBhfAj":{
-"id":"web-12",
 "icon":"news",
-"title":"Producers Section",
-"buttons":[],
-"enableClose":false,
-"webViewMode":false,
-"bannerHeight":15,
-"useTabScreen":false,
-"enableDivider":true,
-"enableForward":false,
-"requiredLogin":false,
-"enableBackward":true,
 "iconFontFamily":"CupertinoIcons",
+"enableDivider":false,
+"webViewMode":false,
+"requiredLogin":false,
+"enableForward":false,
+"enableBackward":true,
+"enableClose":false,
 "buttonAlignment":"centerLeft",
+"buttons":[],
+"bannerHeight":15,
+"useTabScreen":false
+},
+"title-IvKInpQlmh":{
+"id":"web-12",
+"title":"Producers Section",
+"icon":"news",
+"iconFontFamily":"CupertinoIcons",
 "verticalPadding":{
 "x":3,
-"y":0}}
+"y":0
+},
+"enableDivider":false,
+"webViewMode":false,
+"requiredLogin":false,
+"enableForward":false,
+"enableBackward":true,
+"enableClose":false,
+"buttonAlignment":"centerLeft",
+"buttons":[],
+"bannerHeight":15,
+"useTabScreen":false}
 },
 "drawerIcon":{
 "icon":"list_dash",
 "fontFamily":"CupertinoIcons"
 },
 "showBackground":false,
-"styleItem":"listTile"
+"styleItem":"flatListTile"
 }
 ],
 "AppBar":{
@@ -2555,4 +2556,14 @@
 "backgroundColor":null,
 "backgroundImage":null
 },
-"Datetime":"2026-06-18T17:39:28.532580"}
+"categoryFeatured": {
+"title": "⚡️Popular categories 🔥",
+"items": [
+{ "category": "449" },
+{ "category": "17"  },
+{ "category": "349" },
+{ "category": "448" },
+{ "category": "450" }
+]
+},
+"Datetime":"2026-06-19T03:50:11.349070"}
