@@ -2161,10 +2161,14 @@
 },
 {
 "key":"69jw5yx12d",
-"pos":500,
-"icon":"person",
-"label":"Profile",
 "layout":"profile",
+"icon":"person",
+"fontFamily":"CupertinoIcons",
+"label":"Profile",
+"pos":500,
+"defaultTab":false,
+"fullscreen":false,
+"showOriginalColor":false,
 "settings":["my-rating",
 "title-KshwBXqdxS",
 "darkTheme",
@@ -2176,16 +2180,6 @@
 "title-vmdliBhfAj",
 "delivery",
 "web-ikWvMhmIHn"],
-"styleItem":"flatShadow",
-"defaultTab":false,
-"drawerIcon":{
-"icon":"list_dash",
-"fontFamily":"CupertinoIcons"
-},
-"fontFamily":"CupertinoIcons",
-"fullscreen":false,
-"showBackground":false,
-"showOriginalColor":false,
 "subGeneralSetting":{
 "about":{
 "webUrl":"https://traditionalnortheast.com/about-us-for-app/"
@@ -2257,7 +2251,14 @@
 "buttonAlignment":"centerLeft",
 "verticalPadding":{
 "x":3,
-"y":0}}}
+"y":0}}
+},
+"drawerIcon":{
+"icon":"list_dash",
+"fontFamily":"CupertinoIcons"
+},
+"showBackground":false,
+"styleItem":"listTile"
 }
 ],
 "AppBar":{
@@ -2554,14 +2555,4 @@
 "backgroundColor":null,
 "backgroundImage":null
 },
-"categoryFeatured": {
-  "title": "⚡️Popular categories 🔥",
-  "items": [
-    { "category": "449" },
-    { "category": "17"  },
-    { "category": "349" },
-    { "category": "448" },
-    { "category": "450" }
-  ]
-},
-"Datetime":"2026-06-17T18:16:26.132874"}
+"Datetime":"2026-06-18T17:39:28.532580"}
