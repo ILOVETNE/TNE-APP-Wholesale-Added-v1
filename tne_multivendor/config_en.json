@@ -2221,11 +2221,11 @@
 "key":"ZmpAYkxURh",
 "color":"FF56000F",
 "image":"#",
-"video":"https://res.cloudinary.com/dvcvgnlqf/video/upload/v1778097202/Dimasa_Weaving-2_vfgmuy.mp4",
+"video":"",
 "height":0.65,
 "layout":"background",
 "isScrollable":false,
-"showVolumeButton":true
+"showVolumeButton":false
 },
 "Drawer":{
 "logo":"https://traditionalnortheast.com/wp-content/uploads/2025/03/Traditioanl_NorthEast_Logo.png-scaled-1-medium.png",
