@@ -1,4 +1,11 @@
 {
+  "VerticalLayout": {
+    "layout": "columnsWithFilter",
+    "name": "Explore more",
+    "useSort": true,
+    "showCategory": true,
+    "shuffle": true
+},
 "HorizonLayout":[
 {
 "layout":"multiSiteSelection",
