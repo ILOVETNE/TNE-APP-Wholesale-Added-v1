@@ -1,4 +1,12 @@
 {
+    "VerticalLayout": {
+        "layout": "columnsWithFilter",
+        "name": "More to explore",
+        "useSort": true,
+        "showCategory": true,
+        "cardDesign": "flat"
+},
+{
 "HorizonLayout":[
 {
 "layout":"multiSiteSelection",
