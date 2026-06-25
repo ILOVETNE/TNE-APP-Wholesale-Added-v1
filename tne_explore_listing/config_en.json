@@ -1102,7 +1102,7 @@
 },
 "sizeIcon":30.0}
 },
-"ProductDetail":"simpleType",
+"ProductDetail":"flatStyle",
 "ProductListLayout":"list"
 },
 "TabBar":[
