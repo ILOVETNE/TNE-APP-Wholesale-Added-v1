@@ -1031,6 +1031,9 @@
 "FontFamily":"Roboto Flex",
 "FontHeader":"Roboto",
 "StickyHeader":false,
+"ImageProxyBase": "https://img.1northeast.com",
+"ImageProxyQuality": 80,
+"ImageProxyAllowedHosts": "traditionalnortheast.com,explorenortheast.in",
 "TabBarConfig":{
 "enable":true,
 "showMinimize":false,
