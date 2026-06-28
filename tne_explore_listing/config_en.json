@@ -1633,4 +1633,78 @@
 "backgroundColor":null,
 "backgroundImage":null
 },
+  "exploreSearch": {
+    "verticalSwitcher": {
+      "enabled": true
+    },
+    "tealColor": "1D9E75",
+    "tealTextColor": "0F6E56",
+    "searchPlaceholder": "Search stays, cars, events…",
+    "defaultLocationLabel": "Guwahati",
+    "recentLabel": "Recent",
+    "exploreLabel": "Explore",
+    "popularLabel": "Popular near you",
+    "verticals": [
+      {
+        "key": "stays",
+        "label": "Stays",
+        "icon": "home-2",
+        "category": "166",
+        "ctaLabel": "Search stays",
+        "tileTitle": "Home Stays",
+        "tileSubtitle": "120+ places",
+        "tileColor": "1D9E75",
+        "rows": [
+          {"icon": "map-pin-2", "label": "Where", "value": "Add destination"},
+          {"icon": "calendar", "label": "When", "value": "Add dates"},
+          {"icon": "users", "label": "Who", "value": "Add guests"}
+        ]
+      },
+      {
+        "key": "rentals",
+        "label": "Rentals",
+        "icon": "car",
+        "category": "151",
+        "ctaLabel": "Find vehicles",
+        "tileTitle": "Car & Bike",
+        "tileSubtitle": "60+ vehicles",
+        "tileColor": "378ADD",
+        "rows": [
+          {"icon": "map-pin-2", "label": "Pick-up", "value": "Choose location"},
+          {"icon": "calendar", "label": "Dates", "value": "Pick-up — drop-off"},
+          {"icon": "car", "label": "Vehicle", "value": "Car or bike"}
+        ]
+      },
+      {
+        "key": "events",
+        "label": "Events",
+        "icon": "ticket",
+        "category": "376",
+        "ctaLabel": "Find events",
+        "tileTitle": "Events",
+        "tileSubtitle": "Live now",
+        "tileColor": "D4537E",
+        "rows": [
+          {"icon": "map-pin-2", "label": "City", "value": "Guwahati"},
+          {"icon": "calendar", "label": "When", "value": "This weekend"},
+          {"icon": "ticket", "label": "Category", "value": "Music, cultural"}
+        ]
+      },
+      {
+        "key": "services",
+        "label": "Services",
+        "icon": "tool",
+        "category": "377",
+        "ctaLabel": "Book a service",
+        "tileTitle": "Services",
+        "tileSubtitle": "At your door",
+        "tileColor": "BA7517",
+        "rows": [
+          {"icon": "tool", "label": "Service", "value": "Salon, cleaning…"},
+          {"icon": "map-pin-2", "label": "Where", "value": "Your address"},
+          {"icon": "clock", "label": "When", "value": "Today, 5 PM"}
+        ]
+      }
+    ]
+  },
 "Datetime":"2026-06-25T08:29:06.333037"}
