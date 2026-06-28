@@ -29,6 +29,7 @@
 "spacing":20,
 "siteLabel":"Shopping",
 "searchHint":"Search for products, crafts and more",
+"highlightAnimation": "glowBorder",
 "widthButton":176,
 "borderRadius":6,
 "heightButton":60,
