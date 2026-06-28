@@ -18,14 +18,15 @@
 "label":"🗺️ Tourism"
 }
 ],
+"searchHint":"Search for places, home stays, events...",
+"siteLabel":"Tourism",
+"highlightAnimation": "glowBorder",
 "spacing":20,
 "widthButton":176,
 "borderRadius":6,
 "heightButton":60,
 "marginBottom":5,
-"backgroundColor":"#111111",
-"searchHint":"Search for places, home stays, events...",
-"siteLabel":"Tourism"
+"backgroundColor":"#111111"
 },
 {
 "height":240.0,
