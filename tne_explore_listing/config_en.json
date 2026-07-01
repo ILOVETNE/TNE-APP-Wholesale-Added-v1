@@ -218,7 +218,7 @@
 "radius":10.0,
 "spacing":12.0,
 "imageBorderWidth":1.2,
-"imageBorderColor":"FF25D0CE",
+"imageBorderColor":"FF8A0024",
 "imageBorderStyle":"solid",
 "imageSpacing":0.0,
 "size":1.0,
@@ -313,7 +313,7 @@
 "minWidth":0,
 "alignment":"center",
 "marginTop":10,
-"textColor":"FF03DAC6",
+"textColor":"FF1C1C1C",
 "fontWeight":800,
 "isSafeArea":true,
 "marginLeft":0,
@@ -1032,6 +1032,7 @@
 }
 ],
 "Setting":{
+"MainColor":"#8A0024",
 "FontFamily":"Roboto Flex",
 "FontHeader":"Roboto",
 "StickyHeader":false,
@@ -1046,7 +1047,7 @@
 "color":null,
 "colorCart":null,
 "colorIcon":null,
-"colorActiveIcon":"ff009d99",
+"colorActiveIcon":"ff8a0024",
 "iconSize":25.0,
 "indicatorStyle":"material",
 "showFloatingClip":true,
@@ -1081,7 +1082,7 @@
 "topLeftRadius":0.0,
 "bottomRightRadius":0.0,
 "bottomLeftRadius":0.0,
-"color":"ff009d99",
+"color":"ff8a0024",
 "horizontalPadding":0.0,
 "verticalPadding":0.0,
 "strokeWidth":0.0,
@@ -1357,7 +1358,7 @@
 },
 "Background":{
 "key":"ZmpAYkxURh",
-"color":"FF090909",
+"color":"FF8A0024",
 "image":"assets/images/explore-app-background.webp",
 "height":0.7,
 "layout":"background",
@@ -1637,7 +1638,7 @@
     "verticalSwitcher": {
       "enabled": true
     },
-    "tealColor": "1D9E75",
+    "tealColor": "8A0024",
     "tealTextColor": "0F6E56",
     "searchPlaceholder": "Search stays, cars, events…",
     "defaultLocationLabel": "Guwahati",
@@ -1653,7 +1654,7 @@
         "ctaLabel": "Search stays",
         "tileTitle": "Home Stays",
         "tileSubtitle": "120+ places",
-        "tileColor": "1D9E75",
+        "tileColor": "8A0024",
         "rows": [
           {"icon": "map-pin-2", "label": "Where", "value": "Add destination"},
           {"icon": "calendar", "label": "When", "value": "Add dates"},
