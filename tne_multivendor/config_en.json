@@ -37,7 +37,7 @@
 "borderRadius":6,
 "heightButton":60,
 "marginBottom":5,
-"backgroundColor":"#56000F"
+"backgroundColor":"#8A0024"
 },
 {
 "height":135,
@@ -505,7 +505,7 @@
 "horizontalItem":false,
 "animationConfig":null,
 "enableBackground":null,
-"imageBorderColor":"ffe61a00",
+"imageBorderColor":"ff8a0024",
 "imageBorderStyle":"dot",
 "imageBorderWidth":0,
 "categoryMenuShowDepth":true,
@@ -1875,6 +1875,7 @@
 }
 ],
 "Setting":{
+"MainColor":"#8A0024",
 "FontFamily":"Roboto Flex",
 "FontHeader":"Roboto",
 "StickyHeader":false,
@@ -1942,7 +1943,7 @@
 "horizontalPadding":0,
 "distanceFromCenter":0
 },
-"colorActiveIcon":"ffb00020",
+"colorActiveIcon":"ff8a0024",
 "alwaysShowTabBar":false,
 "radiusBottomLeft":0,
 "showFloatingClip":true,
@@ -2234,7 +2235,7 @@
 "Background":{
 "fit":"contain",
 "key":"ZmpAYkxURh",
-"color":"FF56000F",
+"color":"FF8A0024",
 "image":"#",
 "video":"",
 "height":0.65,
